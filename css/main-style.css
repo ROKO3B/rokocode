@@ -395,7 +395,7 @@ li {
 }
 #contact .form .form-item-label {
   width: 100%;
-  max-width: 248px;
+  max-width: 230px;
   letter-spacing: 0.05em;
   font-weight: bold;
   font-size: 18px;
@@ -576,4 +576,4 @@ li {
   #header .btn {
     display: none;
   }
-}/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=main-style.css.map */
