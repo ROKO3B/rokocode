@@ -14,14 +14,14 @@
     </div>
 
   </div><!--------key-visual------->
-
+<img src="<?php echo esc_url(get_theme_file_uri('img/site1.png')); ?>" alt="スニーカーのストアサイト">
   <section id="works" class="wrapper">
     <div class="sec-title">
       <h3>WORKS</h3>
     </div>
     <ul class="works-list">
       <li class="works-item">
-        <img src="<?php echo esc_url(get_theme_file_uri('img/site1.png')); ?>" alt="スニーカーのストアサイト">
+        
           <h4 class="works-title">Sneakers-スニーカーのストアサイト-</h4>
           <a class="btn-neumorphism" href="https://sneakers-shop-site.netlify.app/" target="_blank" rel="noopener noreferrer">view more</a>
         <div class="works-content">
