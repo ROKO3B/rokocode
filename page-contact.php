@@ -21,7 +21,7 @@
       <p>お気軽にお問い合わせください</p>
     </div>
 
-    [contact-form-7 id="13" title="コンタクトフォーム 1"]
+    <?php echo do_shortcode('[contact-form-7 id="13" title="コンタクトフォーム 1"]'); ?>
 
   </section>
 
