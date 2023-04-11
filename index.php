@@ -50,7 +50,7 @@
       <li class="works-item">
         <img src="<?php echo esc_url(get_theme_file_uri('img/site3.png')); ?>" alt="インテリアショップ">
         <h4 class="works-title">Furniture Design-インテリアショップのサイト-</h4>
-        <a class="btn-neumorphism">view more</a>
+        <a class="btn-neumorphism" href="https://furnituredesignsite.rokocode.tokyo/" target="_blank" rel="noopener noreferrer">view more</a>
         <div class="works-content">
           <ul class="tags">
             <li>WordPress</li>
