@@ -27,7 +27,7 @@
           <a class="btn-neumorphism" href="https://sneakers-shop-site.netlify.app/" target="_blank" rel="noopener noreferrer">view more</a>
         <div class="works-content">
           <ul class="tags">
-            <li>HTML5</li>
+            <li>HTML</li>
             <li>CSS3</li>
             <li>SCSS</li>
             <li>JAVASCRIPT</li>
@@ -41,9 +41,11 @@
         <a class="btn-neumorphism" href="https://coffee-cafe-site.netlify.app/" target="_blank" rel="noopener noreferrer">view more</a>
         <div class="works-content">
           <ul class="tags">
-            <li>HTML5</li>
+            <li>HTML</li>
             <li>CSS3</li>
             <li>SCSS</li>
+            <li>JAVASCRIPT</li>
+            <li>JQERY</li>
           </ul>
         </div><!-----works-content----->
       </li>
@@ -54,7 +56,7 @@
         <div class="works-content">
           <ul class="tags">
             <li>WordPress</li>
-            <li>HTML5</li>
+            <li>HTML</li>
             <li>CSS3</li>
             <li>SCSS</li>
             <li>JAVASCRIPT</li>
@@ -63,12 +65,13 @@
         </div><!-----works-content----->
       </li>
       <li class="works-item">
-        <img src="<?php echo esc_url(get_theme_file_uri('img/site1.png')); ?>" alt="rokocodeのPortfolioサイト">
+        <img src="<?php echo esc_url(get_theme_file_uri('img/site4.png')); ?>" alt="rokocodeのPortfolioサイト">
         <h4 class="works-title">Portfolio-rokocodeのPortfolioサイト-</h4>
-        <a class="btn-neumorphism">view more</a>
+        <a class="btn-neumorphism" href="https://rokocodeportfolio.rokocode.tokyo/" target="_blank" rel="noopener noreferrer">view more</a>
         <div class="works-content">
           <ul class="tags">
-            <li>HTML5</li>
+            <li>WordPress</li>
+            <li>HTML</li>
             <li>CSS3</li>
             <li>SCSS</li>
             <li>JAVASCRIPT</li>
